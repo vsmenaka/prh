@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: prh - UI content
+Content-Package-Roots: /conf/prh,/content/dam/prh,/content/prh
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Dragon
+Implementation-Vendor-Id: com.prh.aem
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_181
+Content-Package-Description: UI content package for prh
+Content-Package-Id: prh:com.prh.aem.prh.ui.content:1.0-SNAPSHOT
+

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: prh - UI apps
+Content-Package-Roots: /apps/prh,/etc/packages/adobe/cq60/core.wcm.com
+ ponents.all-2.3.2.zip,/etc/packages/adobe/cq60/core.wcm.components.ex
+ amples-2.3.2.zip
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Dragon
+Implementation-Vendor-Id: com.prh.aem
+Content-Package-Type: mixed
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_181
+Content-Package-Description: UI apps package for prh
+Content-Package-Id: prh:com.prh.aem.prh.ui.apps:1.0-SNAPSHOT
+

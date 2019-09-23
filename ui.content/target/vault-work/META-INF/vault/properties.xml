@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>prh - UI content</comment>
+<entry key="createdBy">Dragon</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">com.prh.aem.prh.ui.content</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2019-09-19T21:43:45.890+02:00</entry>
+<entry key="groupId">com.prh.aem</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">prh</entry>
+<entry key="description">UI content package for prh</entry>
+<entry key="artifactId">com.prh.aem.prh.ui.content</entry>
+</properties>

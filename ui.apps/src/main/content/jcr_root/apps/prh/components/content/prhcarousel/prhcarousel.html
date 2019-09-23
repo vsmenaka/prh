@@ -1,0 +1,31 @@
+<div data-sly-use.multiItems="com.prh.aem.core.models.PrhCarousel">
+
+        <section class="component  bookshelfCarousel">
+            <div class="bookshelfCarousel__itemListContainer">
+                <ul class="bookshelfCarousel__itemList">
+                    <div data-sly-list.img="${multiItems.carouselimgs.listChildren}" data-sly-unwrap>
+
+                        <li class="bookshelfCarousel__itemList__item">
+                            <div class="component__item boxWrapper bookCard">
+                                <a x-cq-linkchecker="valid" class="bookCard__link" href="${img.imgurl}" title="${img.title}">
+                                    <div class="bookCard__wrapper">
+                                        <div class="box__image box__image--withHover bookCard__imageContainer">
+                                            <div class="bookCard__image">
+                                                <img src="${img.imgsrc}" alt="${img.title}">
+                                            </div>
+                                        </div>
+                                        <div class="bookCard__contentContainer">
+                                            <h5 class="bookCard__title">${img.title}</h5>
+                                            <h6 class="bookPromo__details__authorName"> ${img.authorName @context='html'}</h6>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+
+                    </div>
+                </ul>
+            </div>
+        </section>
+
+</div>
