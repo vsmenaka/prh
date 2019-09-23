@@ -1,0 +1,5 @@
+com\prh\aem\core\schedulers\SimpleScheduledTaskTest.class
+com\prh\aem\core\servlets\SimpleServletTest.class
+com\prh\aem\core\filters\LoggingFilterTest.class
+com\prh\aem\core\models\HelloWorldModelTest.class
+com\prh\aem\core\listeners\SimpleResourceListenerTest.class

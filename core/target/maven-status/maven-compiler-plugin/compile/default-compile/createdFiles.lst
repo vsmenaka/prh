@@ -1,0 +1,8 @@
+com\prh\aem\core\listeners\SimpleResourceListener.class
+com\prh\aem\core\filters\LoggingFilter.class
+com\prh\aem\core\package-info.class
+com\prh\aem\core\schedulers\SimpleScheduledTask.class
+com\prh\aem\core\models\HelloWorldModel.class
+com\prh\aem\core\servlets\SimpleServlet.class
+com\prh\aem\core\models\PrhCarousel.class
+com\prh\aem\core\schedulers\SimpleScheduledTask$Config.class
